@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+.liste li {
+    display: inline;
+    text-decoration-color: red;
+    margin: 120px;
+    position: relative;
+    left: 10%;
+    top: 15px;
+}
+.nav {
+    background: rgb(16, 22, 77);
+    height: 60px;
+    margin-top: -16px;
+}
+a {
+    color : white;
+    text-decoration: none;
+    background-color: rgb(16, 22, 77);
+    height: 50px;
+}
+.mal:hover {
+    color: red;
+}
+h1 {
+    color: blueviolet;
+}
+footer {
+    display: block;
+    position: relative;
+    top: 550px;
+    
+}
+img {
+    display: inline;
+    margin: 270px;
+    position: relative;
+    top: 240px;
+}
+.left-s {
+    display: flex;
+    position: relative;
+    left: 90%;
+    top: -420px;
+    width: 150px;
+    background: rgb(16, 22, 77);
+
+}
+section.right {
+    position: relative; 
+    left: 20%;
+    display: flex;
+    top: 300px;
+}
