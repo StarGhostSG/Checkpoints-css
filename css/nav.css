@@ -1,0 +1,27 @@
+.nav-logo {
+    width: 268px;
+    height: 33px;
+}
+.nav-bar {
+    max-width: 975px;
+    height: 70px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 1;
+    margin: 0 auto;
+    font-size: 15px;
+}
+.nav-items {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+.nav-link {
+    text-decoration: none;
+    color: #b1b1b1;
+}
+.nav-link:hover {
+    color:#58cebe;
+}
